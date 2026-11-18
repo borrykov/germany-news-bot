@@ -1,0 +1,9 @@
+{
+  "channels": ["meduzalive", "ejdailyru", "forbesrussia"],
+  "timezone": "Europe/Moscow",
+  "max_pages_per_channel": 600,
+  "request_delay": 0.8,
+  "codex_timeout": 900,
+  "batch_chars": 45000,
+  "max_range_days": 90
+}
